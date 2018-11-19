@@ -12,5 +12,7 @@ public class AppTest
     @Test
     public  void test001(){
         System.out.println("你妹");
+        System.out.println("你妹2");
+        System.out.println("你妹3");
     }
 }
